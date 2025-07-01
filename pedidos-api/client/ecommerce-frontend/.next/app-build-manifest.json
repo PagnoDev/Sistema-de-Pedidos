@@ -1,0 +1,57 @@
+{
+  "pages": {
+    "/not-found": [
+      "static/chunks/webpack-8ba223b515e4ba9a.js",
+      "static/chunks/4bd1b696-fd3bac3735e840ea.js",
+      "static/chunks/684-74540ccd972b885f.js",
+      "static/chunks/main-app-607bbbc98a4e4468.js",
+      "static/chunks/app/not-found-2bdd9a5bcfb0ed8d.js"
+    ],
+    "/_not-found/page": [
+      "static/chunks/webpack-8ba223b515e4ba9a.js",
+      "static/chunks/4bd1b696-fd3bac3735e840ea.js",
+      "static/chunks/684-74540ccd972b885f.js",
+      "static/chunks/main-app-607bbbc98a4e4468.js",
+      "static/chunks/app/_not-found/page-b72775331b0d468e.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-8ba223b515e4ba9a.js",
+      "static/chunks/4bd1b696-fd3bac3735e840ea.js",
+      "static/chunks/684-74540ccd972b885f.js",
+      "static/chunks/main-app-607bbbc98a4e4468.js",
+      "static/css/8fafb4ad53e6eb60.css",
+      "static/chunks/app/layout-fbc4baf158992913.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-8ba223b515e4ba9a.js",
+      "static/chunks/4bd1b696-fd3bac3735e840ea.js",
+      "static/chunks/684-74540ccd972b885f.js",
+      "static/chunks/main-app-607bbbc98a4e4468.js",
+      "static/chunks/app/page-606cf1ea603304f0.js"
+    ],
+    "/pedido/page": [
+      "static/chunks/webpack-8ba223b515e4ba9a.js",
+      "static/chunks/4bd1b696-fd3bac3735e840ea.js",
+      "static/chunks/684-74540ccd972b885f.js",
+      "static/chunks/main-app-607bbbc98a4e4468.js",
+      "static/chunks/498-9762cf3d4db846d3.js",
+      "static/chunks/486-2bfac4df9f1ed096.js",
+      "static/chunks/app/pedido/page-4e2a5a2fe3636d91.js"
+    ],
+    "/login/page": [
+      "static/chunks/webpack-8ba223b515e4ba9a.js",
+      "static/chunks/4bd1b696-fd3bac3735e840ea.js",
+      "static/chunks/684-74540ccd972b885f.js",
+      "static/chunks/main-app-607bbbc98a4e4468.js",
+      "static/chunks/app/login/page-c3fb720de7fffe5d.js"
+    ],
+    "/pedido/[id]/page": [
+      "static/chunks/webpack-8ba223b515e4ba9a.js",
+      "static/chunks/4bd1b696-fd3bac3735e840ea.js",
+      "static/chunks/684-74540ccd972b885f.js",
+      "static/chunks/main-app-607bbbc98a4e4468.js",
+      "static/chunks/498-9762cf3d4db846d3.js",
+      "static/chunks/app/pedido/[id]/page-bb0b19abc52e49ac.js"
+    ]
+  }
+}

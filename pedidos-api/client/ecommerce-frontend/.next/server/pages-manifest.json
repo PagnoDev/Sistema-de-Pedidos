@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/api/pedidos/[id]": "pages/api/pedidos/[id].js",
+  "/api/login": "pages/api/login.js",
+  "/api/pedidos/list": "pages/api/pedidos/list.js",
+  "/api/pedidos": "pages/api/pedidos.js",
+  "/api/produtos/list": "pages/api/produtos/list.js",
+  "/api/pedidos/[id]/status": "pages/api/pedidos/[id]/status.js",
+  "/_document": "pages/_document.js"
+}
